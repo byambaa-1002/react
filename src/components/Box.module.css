@@ -1,0 +1,22 @@
+.error {
+  background-color: aqua;
+}
+.box {
+  display: flex;
+  height: 150px;
+  width: 150px;
+  border: 1px solid red;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.Round {
+  display: flex;
+  height: 150px;
+  width: 150px;
+  border: 1px solid red;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  border-radius: 100%;
+}
