@@ -1,6 +1,6 @@
 import input from "../components/Facebook.module.css";
 
-export const text = () => {
+export const = () => {
   return (
     <div className="facebook">
       <div className="text">
